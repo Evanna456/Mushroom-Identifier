@@ -7,6 +7,10 @@ Identify Mushrooms.
 * 1.)Download and Install [Prolog](https://www.swi-prolog.org/Download.html).
 * 2.)Run Project.
 
+## Author's Notes
+
+A project I made back in college in our AI class.
+
 ## Prolog
 
 <p align="center"><img src="https://i.imgur.com/CCcwlYH.png" width="150px" height="auto" alt="Logo"></a></p>
