@@ -2,11 +2,6 @@
 
 Identify Mushrooms.
 
-## Usage
-
-* 1.)Download and Install [Prolog](https://www.swi-prolog.org/Download.html).
-* 2.)Run Project.
-
 ## Author's Notes
 
 A project I made back in college in our AI class.
